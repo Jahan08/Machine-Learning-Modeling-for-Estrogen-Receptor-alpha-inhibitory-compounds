@@ -60,4 +60,7 @@ global physicochemical properties
 -Global Features e.g. molecular weight, lipophilicity  
  
 
+Part I - In solubility prediction project we have reproduce the solubility results of compounds given by Delaney (2004), article is cited in the notebook file
 
+
+###### here all the files have .json extension convert them to .ipynb then work on them ######
