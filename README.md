@@ -36,3 +36,14 @@ Bioinformatics --> Involves the devlopment of algorithms and tools to analyze an
 
 Bioinformatics Tools --> databases, softwares, webservers that allow users to retrieve , 
 analyze and gain insights from bilogical data
+
+#### Why do we need computational models for drug design and discovery?? #######
+
+To discern structure-activity relationship (SAR) of chemical library
+in vitro-data are limited, expensive and time consuming, laborious etc.
+computational models can be quickly built to predict teh pharmacokinetics (ADME/T)  and 
+bioactivity (inhibition or activation of target protein) of query compounds  
+
+ 
+
+
