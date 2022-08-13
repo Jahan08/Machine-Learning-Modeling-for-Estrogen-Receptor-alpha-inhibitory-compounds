@@ -39,11 +39,25 @@ analyze and gain insights from bilogical data
 
 #### Why do we need computational models for drug design and discovery?? #######
 
-To discern structure-activity relationship (SAR) of chemical library
-in vitro-data are limited, expensive and time consuming, laborious etc.
-computational models can be quickly built to predict teh pharmacokinetics (ADME/T)  and 
+-To discern structure-activity relationship (SAR) of chemical library
+-In vitro-data are limited, expensive and time consuming, laborious etc.
+-Computational models can be quickly built to predict teh pharmacokinetics (ADME/T)  and 
 bioactivity (inhibition or activation of target protein) of query compounds  
+-Models can be used to repurpose existing FDA approved drugs for new therapeutic 
+treatment
 
+Data Science (Unstructured Data >> Structured data >> uncover patterns >> gain knowledge >> gain wisdom )
+
+######### QSAR ##########
+
+Quantitaive structure-activity relationship (QSAR)
+
+-Modeling is a mathematical modeling that seeks to discern the relationship between 
+the chemical structure and their bioactivity
+-The chemical structure is defined by a set of molecular descriptors that can account for local or 
+global physicochemical properties
+-local features, e.g. the number/presence of specific functional moities (molecular fingerprints)
+-Global Features e.g. molecular weight, lipophilicity  
  
 
 
