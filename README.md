@@ -59,8 +59,7 @@ global physicochemical properties
 -local features, e.g. the number/presence of specific functional moities (molecular fingerprints)
 -Global Features e.g. molecular weight, lipophilicity  
  
-
-Part I - In solubility prediction project we have reproduce the solubility results of compounds given by Delaney (2004), article is cited in the notebook file
+Part I - In this solubility prediction project we have reproduced the solubility results of compounds given by Delaney (2004), article is cited in the notebook file
 
 
 ###### here all the files have .json extension convert them to .ipynb then work on them ######
