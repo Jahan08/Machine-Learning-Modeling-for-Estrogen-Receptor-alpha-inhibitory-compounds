@@ -30,3 +30,9 @@ Compare --> sequence alighment to discern similarity/differnces amongst varous g
 Model --> Build structural model of protein structure (homology modeling for protein) and build predictive models 
 using retrospective data
 Integrate and curate --> combine heterogeneous data sources, redundancy 
+
+Computational Bilogy --> Applies computational techniques to understand bilogy
+Bioinformatics --> Involves the devlopment of algorithms and tools to analyze and solve bilogical data
+
+Bioinformatics Tools --> databases, softwares, webservers that allow users to retrieve , 
+analyze and gain insights from bilogical data
