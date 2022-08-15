@@ -50,6 +50,7 @@ Data Science (Unstructured Data >> Structured data >> uncover patterns >> gain k
 
 ######### QSAR ##########
 
+OSAR modeling one of the ways to do ligand-based virtual screening of ligands library...
 Quantitaive structure-activity relationship (QSAR)
 
 -Modeling is a mathematical modeling that seeks to discern the relationship between 
