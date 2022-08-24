@@ -50,8 +50,7 @@ Data Science (Unstructured Data >> Structured data >> uncover patterns >> gain k
 
 ######### QSAR ##########
 
-OSAR modeling one of the ways to do ligand-based virtual screening of ligands library...
-Quantitaive structure-activity relationship (QSAR)
+Quantitative structure– activity relationship (QSAR) is ligand-based approach in computational drug design for correlating the molecular features of a chemical library with their respective bioactivity
 
 -Modeling is a mathematical modeling that seeks to discern the relationship between 
 the chemical structure and their bioactivity
@@ -62,5 +61,13 @@ global physicochemical properties
  
 Part I - In this solubility prediction project we have reproduced the solubility results of compounds given by Delaney (2004), article is cited in the notebook file
 
+
+Here we also create new QSAR model for Estrogen Receptor Alpha (CHEM206) inhibitory compounds, inspired by the following articles:
+https://pubs.rsc.org/en/content/articlelanding/2018/ra/c7ra10979b
+
+The expression of ERa is greatly increased in breast cancer cells and as such represents a promising therapeutic target for combating breast cancer
+QSAR has been instrumental in shedding light on the molecular basis of bioactivity of interest by learning from past bioactivity data while also being amenable to extrapolating on the bioactivity of new compounds that are foreign to the trained data set
+
+Part II - 
 
 ###### here all the files have .json extension convert them to .ipynb then work on them ######
