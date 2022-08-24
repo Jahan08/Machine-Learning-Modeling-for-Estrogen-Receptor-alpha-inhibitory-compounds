@@ -68,6 +68,6 @@ https://pubs.rsc.org/en/content/articlelanding/2018/ra/c7ra10979b
 The expression of ERa is greatly increased in breast cancer cells and as such represents a promising therapeutic target for combating breast cancer
 QSAR has been instrumental in shedding light on the molecular basis of bioactivity of interest by learning from past bioactivity data while also being amenable to extrapolating on the bioactivity of new compounds that are foreign to the trained data set
 
-Part II - 
+Part II - Here we retrieve the Bioactivity data (only IC50) for inhibitory compounds for ER-alpha (CHEMBL206)
 
 ###### here all the files have .json extension convert them to .ipynb then work on them ######
