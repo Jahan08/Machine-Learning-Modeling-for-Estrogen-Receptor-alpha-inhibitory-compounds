@@ -59,7 +59,7 @@ global physicochemical properties
 -local features, e.g. the number/presence of specific functional moities (molecular fingerprints)
 -Global Features e.g. molecular weight, lipophilicity  
  
-Part I - In this solubility prediction project we have reproduced the solubility results of compounds given by Delaney (2004), article is cited in the notebook file
+Part A - In this solubility prediction project we have reproduced the solubility results of compounds given by Delaney (2004), article is cited in the notebook file
 
 
 Here we also create new QSAR model for Estrogen Receptor Alpha (CHEM206) inhibitory compounds, inspired by the following articles:
@@ -68,6 +68,8 @@ https://pubs.rsc.org/en/content/articlelanding/2018/ra/c7ra10979b
 The expression of ERa is greatly increased in breast cancer cells and as such represents a promising therapeutic target for combating breast cancer
 QSAR has been instrumental in shedding light on the molecular basis of bioactivity of interest by learning from past bioactivity data while also being amenable to extrapolating on the bioactivity of new compounds that are foreign to the trained data set
 
-Part II - Here we retrieve the Bioactivity data (only IC50) for inhibitory compounds for ER-alpha (CHEMBL206)
+Part I - Here we retrieve the Bioactivity data (only IC50) for inhibitory compounds for ER-alpha (CHEMBL206)
+
+Part II - Here we convert the Bioactivity data (only IC50) to pIC50 for inhibitory compounds for ER-alpha (CHEMBL206)
 
 ###### here all the files have .json extension convert them to .ipynb then work on them ######
