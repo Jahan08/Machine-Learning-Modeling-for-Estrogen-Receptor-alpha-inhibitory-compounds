@@ -68,9 +68,9 @@ https://pubs.rsc.org/en/content/articlelanding/2018/ra/c7ra10979b
 The expression of ERa is greatly increased in breast cancer cells and as such represents a promising therapeutic target for combating breast cancer
 QSAR has been instrumental in shedding light on the molecular basis of bioactivity of interest by learning from past bioactivity data while also being amenable to extrapolating on the bioactivity of new compounds that are foreign to the trained data set
 
-Part I - Here we retrieve the Bioactivity data (only IC50) for inhibitory compounds for ER-alpha (CHEMBL206. We remove null IC50 and create new
-data frame with Chembl Id, smiles string and IC50(not null), which will be used in the next part
+Part I - Here we retrieve the Bioactivity data (only IC50) for inhibitory compounds for ER-alpha (CHEMBL206. We remove null IC50 which reduces the molecule numbers to 3909 and create new data frame with Chembl Id, smiles string and IC50(not null), which will be used in the next part
 
-Part II - Here we convert the Bioactivity data (only IC50) to pIC50 for inhibitory compounds for ER-alpha (CHEMBL206)
+Part II - Here we convert the Bioactivity data (only IC50) to pIC50 for inhibitory compounds for ER-alpha (CHEMBL206) and do more preprocessing
+by groupby Chembl_id and smiles notation to find the mean value of pIC50 with less than 2 SD (for redundant molecules), molecules number decreased to 2907. From this part we have dataframe for 2907 molecules with Chembl_id, Smiles, and pIC50.
 
 ###### here all the files have .json extension convert them to .ipynb then work on them ######
