@@ -73,4 +73,4 @@ Part I - Here we retrieve the Bioactivity data (only IC50) for inhibitory compou
 Part II - Here we convert the Bioactivity data (only IC50) to pIC50 for inhibitory compounds for ER-alpha (CHEMBL206) and do more preprocessing
 by groupby Chembl_id and smiles notation to find the mean value of pIC50 with less than 2 SD (for redundant molecules), molecules number decreased to 2907. From this part we have dataframe for 2907 molecules with Chembl_id, Smiles, and pIC50.
 
-###### here all the files have .json extension convert them to .ipynb then work on them ######
+
