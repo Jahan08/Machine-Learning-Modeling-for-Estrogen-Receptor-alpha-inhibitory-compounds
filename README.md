@@ -70,10 +70,12 @@ QSAR has been instrumental in shedding light on the molecular basis of bioactivi
 
 #### Part I - Here we retrieve the Bioactivity data (only IC50) for inhibitory compounds for ER-alpha (CHEMBL206. We remove null IC50 which reduces the molecule numbers to 3909 and create new data frame with Chembl Id, smiles string and IC50(not null), which will be used in the next part
 
-In PART IB we conducted further more filtering and created data file bioactivity_preprocessed_data_ERA_2.csv
-
 #### Part II - Here we convert the Bioactivity data (only IC50) to pIC50 for inhibitory compounds for ER-alpha (CHEMBL206) and do more preprocessing
 by groupby Chembl_id and smiles notation to find the mean value of pIC50 with less than 2 SD (for redundant molecules), molecules number decreased to 2907. From this part we have dataframe for 2907 molecules with Chembl_id, Smiles, and pIC50.
+
+### PART IB 
+
+we conducted more advanced filtering and created data file bioactivity_preprocessed_data_ERA_1.csv, bioactivity_preprocessed_data_ERA_2.csv
 
 #### Part III - Here we are going to use the preprocessed data from Part II. Here we develop molecular descriptors data frames by using 4 different fingerprint types (pubchem, MACCCS, AtomPairs 2D count, AtomPairs 2D) and in Part III B we used difeferent chunk of codes and use 2 different fingerprint types (SubstructureFingerPrintCount and SubstructureFingerPrinter) and will be used in Part IV.
 
