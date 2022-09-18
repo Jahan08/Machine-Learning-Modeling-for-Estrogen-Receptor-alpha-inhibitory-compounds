@@ -1,6 +1,6 @@
 # Bioinformatics
 
-#### OMICs DATA ######
+## OMICs DATA 
 the post genomic era has rediated its influnence and brought about advances in the pursuit of information underpinning
 other biological entities
 
@@ -37,7 +37,7 @@ Bioinformatics --> Involves the devlopment of algorithms and tools to analyze an
 Bioinformatics Tools --> databases, softwares, webservers that allow users to retrieve , 
 analyze and gain insights from bilogical data
 
-#### Why do we need computational models for drug design and discovery?? #######
+## Why do we need computational models for drug design and discovery?? 
 
 -To discern structure-activity relationship (SAR) of chemical library
 -In vitro-data are limited, expensive and time consuming, laborious etc.
@@ -48,7 +48,7 @@ treatment
 
 Data Science (Unstructured Data >> Structured data >> uncover patterns >> gain knowledge >> gain wisdom )
 
-######### QSAR ##########
+## QSAR 
 
 Quantitative structure– activity relationship (QSAR) is ligand-based approach in computational drug design for correlating the molecular features of a chemical library with their respective bioactivity
 
