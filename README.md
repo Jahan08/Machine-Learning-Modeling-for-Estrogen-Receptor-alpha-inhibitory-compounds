@@ -70,6 +70,8 @@ QSAR has been instrumental in shedding light on the molecular basis of bioactivi
 
 ### PART I
 
+We got bioactivity data for 14662 compounds for CHEMBL206 target protein 
+
 we conducted advanced filtering and created data file bioactivity_preprocessed_data_ERA_1.csv, bioactivity_preprocessed_data_ERA_2.csv
 And conducted detailed filtering on duplicate chemblID'
 
