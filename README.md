@@ -76,7 +76,9 @@ by groupby Chembl_id and smiles notation to find the mean value of pIC50 with le
 ### PART IB 
 
 we conducted more advanced filtering and created data file bioactivity_preprocessed_data_ERA_1.csv, bioactivity_preprocessed_data_ERA_2.csv
-And conducted detailed filtering on duplicate chemblID
+And conducted detailed filtering on duplicate chemblID'
+
+Which reduce the compunds number to 1498 compounds
 
 #### Part III - Here we are going to use the preprocessed data from Part II. Here we develop molecular descriptors data frames by using 4 different fingerprint types (pubchem, MACCCS, AtomPairs 2D count, AtomPairs 2D) and in Part III B we used difeferent chunk of codes and use 2 different fingerprint types (SubstructureFingerPrintCount and SubstructureFingerPrinter) and will be used in Part IV.
 
