@@ -39,12 +39,18 @@ analyze and gain insights from bilogical data
 
 ## Why do we need computational models for drug design and discovery?? 
 
--To discern structure-activity relationship (SAR) of chemical library
--In vitro-data are limited, expensive and time consuming, laborious etc.
--Computational models can be quickly built to predict teh pharmacokinetics (ADME/T)  and 
-bioactivity (inhibition or activation of target protein) of query compounds  
--Models can be used to repurpose existing FDA approved drugs for new therapeutic 
-treatment
+* To discern structure-activity relationship (SAR) of chemical library
+* In vitro-data are limited, expensive and time consuming, laborious etc.
+* Computational models can be quickly built to predict teh pharmacokinetics (ADME/T)  and  bioactivity (inhibition or activation of target protein) of query compounds  
+* Models can be used to repurpose existing FDA approved drugs for new therapeutic treatment
+
+## Question that can be answered by Computational Models
+
+* What target proteins could my compounds bind to and modulate?
+* Would my compound/s bind unpacifically to other proteins and thus have off-target activity
+* What type of compounds can bind and modulate the bioactivity of the target protein of my interest
+* Are there similar compounds to my query compound that may potentially exert similar binding behavior
+* How does my compound bind to the protein structure of its target 
 
 Data Science (Unstructured Data >> Structured data >> uncover patterns >> gain knowledge >> gain wisdom )
 
