@@ -71,6 +71,10 @@ global physicochemical properties
  
 Part A - In this solubility prediction project we have reproduced the solubility results of compounds given by Delaney (2004), article is cited in the notebook file
 
+## Procedures for the development of a QSAR model
+
+* The biological activity of a series of compounds is determined experimentally or obtained fro literature
+* 
 
 Here we also create new QSAR model for Estrogen Receptor Alpha (CHEM206) inhibitory compounds, inspired by the following articles:
 https://pubs.rsc.org/en/content/articlelanding/2018/ra/c7ra10979b
