@@ -80,7 +80,7 @@ We got bioactivity data for 14662 compounds for CHEMBL206 target protein with mu
 
 We also conducted extensive Exploratory data analysis to get idea about the filtered Bioactivity data (pIC50, negative logarithm of IC50)
 
-#### Part II
+### Part II
 
 Here we are going to use the preprocessed data from Part II. Here we develop molecular descriptors data frames by using 4 different fingerprint types (pubchem, MACCCS, AtomPairs 2D count, AtomPairs 2D) and in Part III B we used difeferent chunk of codes and use 2 different fingerprint types (SubstructureFingerPrintCount and SubstructureFingerPrinter) and will be used in Part IV.
 
