@@ -70,12 +70,9 @@ QSAR has been instrumental in shedding light on the molecular basis of bioactivi
 
 ### PART I
 
-We got bioactivity data for 14662 compounds for CHEMBL206 target protein 
+We got bioactivity data for 14662 compounds for CHEMBL206 target protein with multiple bioactivity data, we only extract IC50 bioactivity data with 4934 compounds. we conducted advanced filtering Which reduced the compunds number to 1498 compounds, after assesing the Lipniski's rule of five we found 1472 compounds among which 1352 are active compounds.
 
-we conducted advanced filtering and created data file bioactivity_preprocessed_data_ERA_1.csv, bioactivity_preprocessed_data_ERA_2.csv
-And conducted detailed filtering on duplicate chemblID'
-
-Which reduce the compunds number to 1498 compounds, after assesing the Lipniski's rule of five we found 1472 compounds among which 1352 are active compounds.
+We also conducted extensive Exploratory data analysis to get idea about the filtered Bioactivity data (pIC50, negative logarithm of IC50)
 
 #### Part II
 
