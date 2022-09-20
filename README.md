@@ -73,8 +73,23 @@ Part A - In this solubility prediction project we have reproduced the solubility
 
 ## Procedures for the development of a QSAR model
 
-* The biological activity of a series of compounds is determined experimentally or obtained fro literature
-* 
+* Biological Data Collection - The biological activity of a series of compounds is determined experimentally or obtained fro literature
+
+* Descriptor Generation - Physicochemical information encoded within the molecular structure of the compounds is extracted through the use of a wide range of computational chemistry software; for some descriptors geometry optimization prior to descriptor calculation may be required; some descriptors may require molecular structure alignment or superpoistion
+
+* Feature Selection - This is performed to reduce the dimensionality of the feature space as well as remove collinear and redundant descriptors
+
+* Data Pre-processing - This is carried out to ensure the lntegrity and completeness of the data to be analyzed as well as adjusting the data values by scaling them through normalization and standardization methods 
+
+* Training and testing selection - Data set is divided into training and testing set where the former will be used for model development and tested on the latter
+
+* Internal validation - The predictive performance of the model is validated internally using N-fold or leave-one-out cross-validation
+
+* Model development - The training set is used for model development through the use of various learning algorithm 
+
+* Performance evaluation - The predictive performance of the developed model is evaluated through varoius statistical parameters 
+
+* External validation - The predictive perfromance of the developed model in a real-world situation can be elucidated by applying the model on a set of unseen compounds 
 
 Here we also create new QSAR model for Estrogen Receptor Alpha (CHEM206) inhibitory compounds, inspired by the following articles:
 https://pubs.rsc.org/en/content/articlelanding/2018/ra/c7ra10979b
