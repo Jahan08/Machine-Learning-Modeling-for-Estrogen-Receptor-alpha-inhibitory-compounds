@@ -52,9 +52,13 @@ analyze and gain insights from bilogical data
 * Are there similar compounds to my query compound that may potentially exert similar binding behavior
 * How does my compound bind to the protein structure of its target 
 
-Data Science (Unstructured Data >> Structured data >> uncover patterns >> gain knowledge >> gain wisdom )
+## Drug Discovery Toolbox
+
+#### Combinatorial Chemistry -- Chemical Libraries -- Chemical Space -- High Throughput Screening -- Property Filters -- Computational Chemistry -- Machine Learning -- QSAR -- Proteo-chemo-metrics -- Molecular Modeling -- Molecular Dynamics -- Molecular Docking
 
 ## QSAR 
+
+Data Science (Unstructured Data >> Structured data >> uncover patterns >> gain knowledge >> gain wisdom )
 
 Quantitative structure– activity relationship (QSAR) is ligand-based approach in computational drug design for correlating the molecular features of a chemical library with their respective bioactivity
 
