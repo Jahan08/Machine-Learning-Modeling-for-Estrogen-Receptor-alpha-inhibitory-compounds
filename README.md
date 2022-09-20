@@ -75,7 +75,7 @@ We got bioactivity data for 14662 compounds for CHEMBL206 target protein
 we conducted advanced filtering and created data file bioactivity_preprocessed_data_ERA_1.csv, bioactivity_preprocessed_data_ERA_2.csv
 And conducted detailed filtering on duplicate chemblID'
 
-Which reduce the compunds number to 1498 compounds, after assesing the Lipniski's rule of five we found 1472 compounds
+Which reduce the compunds number to 1498 compounds, after assesing the Lipniski's rule of five we found 1472 compounds among which 1352 are active compounds.
 
 #### Part II
 
