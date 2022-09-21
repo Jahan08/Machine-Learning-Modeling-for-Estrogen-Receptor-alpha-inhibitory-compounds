@@ -105,7 +105,7 @@ We also conducted extensive Exploratory data analysis to get idea about the filt
 
 ### Part II
 
-Here we are going to use the preprocessed data from Part I. Here we develop molecular descriptors data frames by using 4 different fingerprint types (pubchem, MACCCS, AtomPairs 2D count, AtomPairs 2D) and will be used in Part IV.
+Here we are going to use the preprocessed data from Part I. Here we develop molecular descriptors data frames by using 4 different fingerprint types (pubchem, MACCCS, AtomPairs 2D count, AtomPairs 2D) and will be used in Part III and IIIB.
 
 
 
