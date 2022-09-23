@@ -1,5 +1,9 @@
 # Bioinformatics
 
+## info graphics:
+Uploaded some pictures which were drawn by Professor Chanin Nantasenamat
+
+
 ## OMICs DATA 
 the post genomic era has rediated its influnence and brought about advances in the pursuit of information underpinning
 other biological entities
