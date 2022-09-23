@@ -110,7 +110,7 @@ Here we are going to use the preprocessed data from Part I. Here we develop mole
 ### PART IIIB
 Prior to construction of the classication model, descriptors were subjected to mean centering and unit variance scaling as to afford comparability. Descriptors were removed if pairwise inter-correlation coefficients exceed the threshold value of 0.95 and correlation coefficient exceed the threshold value of 0.7. This resulted in reduced subsets consisting of 89 descriptors for PubChem.
 
-In the construction of prediction models, the possibility of bias may arise from a single data split. In order to address this problem, Puzyn et al. suggested that prediction models should be constructed from N independent data splits. Thus, this study employs independent data splits using a split ratio of 70/30 where 70% of the entire data set was used as the internal set and the remaining 30% served as the external set. The nal prediction performance was obtained by calculating the mean and standard deviation values for statistical parameters from these independent data splits.
+In the construction of prediction models, the possibility of bias may arise from a single data split. In order to address this problem, Puzyn et al. suggested that prediction models should be constructed from N independent data splits. Thus, this study employs independent data splits using a split ratio of 70/30 where 70% of the entire data set was used as the internal set and the remaining 30% served as the external set. The final prediction performance was obtained by calculating the mean and standard deviation values for statistical parameters from these independent data splits.
 
 
 
